@@ -1,0 +1,192 @@
+{
+    "name": "Example Color Scheme",
+     "variables":
+    {
+        "plain_text": "#D2D7E3",
+        "background": "#28292D",
+        "comment": "#52606B",
+        "mark": "#798A9B",
+        "string": "#CB8D94",
+        "number": "#B094DF",
+        "keyword": "#C399DF",
+        "preprocessor_statements": "#7C9494",
+        "type_declarations": "#9AB8AF",
+        "other_declarations": "#85ABAB",
+        "project_type": "#D1C48F",
+        "project_func": "#CFAF94",
+        "other_type": "#B8C494",
+        "other_func": "#9EC09D",
+        "invalid": "#853835",
+        "deprecated": "8F7C26"
+    },
+    "globals":
+    {
+        "background": "var(background)",
+        "foreground": "var(plain_text)",
+        "caret": "var(plain_text)",
+        "invisibles": "#60616A",
+        "line_highlight": "#2F3136",
+        "selection": "#41474D",
+        "brackets_options": "#FF0000"
+    },
+    "rules":
+    [
+        {
+            "scope": "entity.name",
+            "foreground": "var(other_declarations)"
+        },
+        {
+            "scope": "entity.other.inherited-class",
+            "foreground": "var(project_type)"
+        },
+        {
+            "scope": "entity.name.section",
+            "foreground": "var(project_type)"
+        },
+        {
+            "scope": "entity.name.tag",
+            "foreground": "var(keyword)"
+        },
+        {
+            "scope": "entity.other.attribute-name",
+            "foreground": "var(project_type)"
+        },
+        {
+            "scope": "variable",
+            "foreground": "var(other_func)"
+        },
+        {
+            "scope": "variable.language",
+            "foreground": "var(project_type)"
+        },
+        {
+            "scope": "variable.parameter",
+            "foreground": "var(other_declarations)"
+        },
+        {
+            "scope": "variable.function",
+            "foreground": "var(project_func)"
+        },
+        {
+            "scope": "constant",
+            "foreground": "var(other_declarations)"
+        },
+        {
+            "scope": "constant.numeric",
+            "foreground": "var(number)"
+        },
+        {
+            "scope": "constant.language",
+            "foreground": "var(keyword)",
+            "font_style": "bold"
+        },
+        {
+            "scope": "constant.character.escape",
+            "foreground": "var(string)"
+        },
+        {
+            "scope": "storage.type",
+            "foreground": "var(keyword)",
+            "font_style": "bold"
+        },
+        {
+            "scope": "storage.modifier",
+            "foreground": "var(plain_text)"
+        },
+        {
+            "scope": "support",
+            "foreground": "var(other_func)"
+        },
+                {
+            "scope": "support.module",
+            "foreground": "var(other_func)"
+        },
+        {
+            "scope": "support.type",
+            "foreground": "var(other_type)"
+        },
+                {
+            "scope": "support.class",
+            "foreground": "var(other_type)"
+        },
+        {
+            "scope": "keyword",
+            "foreground": "var(keyword)",
+            "font_style": "bold"
+        },
+        {
+            "scope": "keyword.control",
+            "foreground": "var(keyword)",
+            "font_style": "bold"
+        },
+        {
+            "scope": "keyword.operator",
+            "foreground": "var(plain_text)"
+        },
+        {
+            "scope": "keyword.declaration",
+            "foreground": "var(plain_text)"
+        },
+        {
+            "scope": "string",
+            "foreground": "var(string)"
+        },
+        {
+            "scope": "comment",
+            "foreground": "var(comment)"
+        },
+        {
+            "scope": "invalid",
+            "foreground": "var(plain_text)",
+            "background": "var(invalid)"
+        },
+        {
+            "scope": "invalid.deprecated",
+            "foreground": "var(plain_text)",
+            "background": "var(deprecated)"
+        },
+        {
+            "scope": "markup.inserted",
+            "foreground": "var(other_func)"
+        },
+        {
+            "scope": "markup.deleted",
+            "foreground": "var(string)"
+        },
+        {
+            "scope": "entity.name.tag.yaml",
+            "foreground": "var(other_declarations)"
+        },
+        {
+            "scope": "source.yaml string",
+            "foreground": "var(string)"
+        },
+        {
+            "scope": "variable.language.objc",
+            "foreground": "var(keyword)",
+            "font_style": "bold"
+        },
+        {
+            "scope": "source.objc keyword.control",
+            "foreground": "var(preprocessor_statements)",
+            "font_style": "regular"
+        },
+        {
+            "scope": "source.objc entity.name",
+            "foreground": "var(preprocessor_statements)"
+        },
+        {
+            "scope": "source.objc constant",
+            "foreground": "var(string)"
+        },
+        {
+            "scope": "constant.nil.swift",
+            "foreground": "var(keyword)",
+            "font_style": "bold"
+        },
+        {
+            "scope": "entity.type.function.swift",
+            "foreground": "var(other_declarations)"
+        }
+    ]
+}
