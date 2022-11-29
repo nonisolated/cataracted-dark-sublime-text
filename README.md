@@ -14,7 +14,7 @@ Dark color scheme for Sublime Text
 
 ### Manually
 ```
-curl -o ~/Library/Application\ Support/Sublime\ Text/Packages/cataracted-dark.sublime-color-scheme https://raw.githubusercontent.com/betraying/cataracted-dark-sublime-text/main/cataracted-dark.sublime-color-scheme
+curl -o ~/Library/Application\ Support/Sublime\ Text/Packages/Cataracted\ Dark.sublime-color-scheme https://raw.githubusercontent.com/betraying/cataracted-dark-sublime-text/main/cataracted-dark.sublime-color-scheme
 ```
 
 ## Select color scheme
