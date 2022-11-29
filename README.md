@@ -6,9 +6,16 @@ Dark color scheme for Sublime Text
 * Search for `Install Package Control`
 
 ## Install color scheme
+
+### Package Control
 * Press <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>P</kbd>
 * Search for `Package Control: Install Package`
 * Search for `Cataracted Dark`
+
+### Manually
+```
+curl -o ~/Library/Application\ Support/Sublime\ Text/Packages/cataracted-dark.sublime-color-scheme https://raw.githubusercontent.com/betraying/cataracted-dark-sublime-text/main/cataracted-dark.sublime-color-scheme
+```
 
 ## Select color scheme
 * `Preferences`
