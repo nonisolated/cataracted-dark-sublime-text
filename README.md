@@ -10,17 +10,17 @@ Dark color scheme for Sublime Text
 ### Package Control
 * Press <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>P</kbd>
 * Search for `Package Control: Install Package`
-* Search for `Cataracted Dark`
+* Search for `Cataracted Dark Color Scheme`
 
 ### Manually
 ```
-curl -o ~/Library/Application\ Support/Sublime\ Text/Packages/Cataracted\ Dark.sublime-color-scheme https://raw.githubusercontent.com/betraying/cataracted-dark-sublime-text/main/cataracted-dark.sublime-color-scheme
+curl -o ~/Library/Application\ Support/Sublime\ Text/Packages/Cataracted\ Dark\ Color\ Scheme.sublime-color-scheme https://raw.githubusercontent.com/betraying/cataracted-dark-sublime-text/main/cataracted-dark.sublime-color-scheme
 ```
 
 ## Select color scheme
 * `Preferences`
 * `Select Color Scheme...`
-* Search for `Cataracted Dark`
+* Search for `Cataracted Dark Color Scheme`
 
 ## Font
 [Download SF Mono](https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg)
