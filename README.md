@@ -2,13 +2,13 @@
 Dark color scheme for Sublime Text
 
 ## How to install Package Control
-* Press <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>P</kbd>
+* Press <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>P</kbd>
 * Search for `Install Package Control`
 
 ## Install color scheme
 
 ### Package Control
-* Press <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>P</kbd>
+* Press <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>P</kbd>
 * Search for `Package Control: Install Package`
 * Search for `Cataracted Dark Color Scheme`
 
