@@ -1,0 +1,53 @@
+[
+    {
+        "class": "tabset_control",
+        "layer0.tint": "#1F2023"
+    },
+    {
+        "class": "status_bar",
+        "layer0.tint": "#1F2023"
+    },
+    {
+        "class": "panel_control",
+        "layer0.tint": "#1F2023"
+    },
+    {
+        "class": "tab_control",
+        "layer0.opacity": 1.0,
+        "layer0.tint": "#1F2023",
+        "layer1.opacity": 0.0
+    },
+    {
+        "attributes":
+        [
+            "selected"
+        ],
+        "class": "tab_control",
+        "layer0.opacity": 1.0,
+        "layer0.texture": "",
+        "layer0.tint": "#335274",
+        "layer1.opacity": 0.0
+    },
+    {
+        "bg": "#1F2023",
+        "class": "title_bar",
+        "fg": "#656565",
+        "settings":
+        [
+            "!ui_native_titlebar"
+        ]
+    },
+    {
+        "bg": "#1F2023",
+        "class": "title_bar",
+        "settings":
+        [
+            "!ui_native_titlebar",
+            "ui_separator"
+        ]
+    },
+    {
+        "class": "sidebar_container",
+        "layer0.tint": "#1F2023"
+    }
+]
