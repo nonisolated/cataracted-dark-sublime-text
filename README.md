@@ -32,5 +32,15 @@ curl -o ~/Library/Application\ Support/Sublime\ Text/Packages/Cataracted\ Dark\ 
 "highlight_line": true
 ```
 
+## Theme
+```bash
+curl -o ~/Library/Application\ Support/Sublime\ Text/Packages/User/Default.sublime-theme --create-dirs https://raw.githubusercontent.com/betraying/cataracted-dark-sublime-text/main/cataracted-dark-theme.sublime-theme
+```
+* `Preferences`
+* `Select Theme...`
+* Search for `Default Dark`
+
+## [iTerm and Xcode](https://github.com/betraying/cataracted-dark)
+
 ## License
 Color scheme is released under the [MIT License](http://www.opensource.org/licenses/MIT)
