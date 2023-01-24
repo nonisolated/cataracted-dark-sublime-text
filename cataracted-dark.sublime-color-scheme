@@ -1,6 +1,6 @@
 {
     "name": "Cataracted Dark Color Scheme",
-     "variables":
+        "variables":
     {
         "plain_text": "#D2D7E3",
         "background": "#27282C",
@@ -26,8 +26,7 @@
         "caret": "var(plain_text)",
         "invisibles": "#60616A",
         "line_highlight": "#2F3136",
-        "selection": "#41474D",
-        "brackets_options": "#FF0000"
+        "selection": "#41474D"
     },
     "rules":
     [
@@ -97,7 +96,7 @@
             "scope": "support",
             "foreground": "var(other_func)"
         },
-                {
+        {
             "scope": "support.module",
             "foreground": "var(other_func)"
         },
@@ -105,7 +104,7 @@
             "scope": "support.type",
             "foreground": "var(other_type)"
         },
-                {
+        {
             "scope": "support.class",
             "foreground": "var(other_type)"
         },
@@ -146,12 +145,52 @@
             "background": "var(deprecated)"
         },
         {
+            "scope": "markup.heading",
+            "foreground": "var(other_declarations)"
+        },
+        {
+            "scope": "markup.list.unnumbered",
+            "foreground": "var(other_declarations)"
+        },
+        {
+            "scope": "markup.list.numbered",
+            "foreground": "var(other_declarations)"
+        },
+        {
+            "scope": "markup.bold",
+            "foreground": "var(other_declarations)"
+        },
+        {
+            "scope": "markup.italic",
+            "foreground": "var(other_declarations)"
+        },
+        {
             "scope": "markup.inserted",
             "foreground": "var(other_func)"
         },
         {
             "scope": "markup.deleted",
             "foreground": "var(string)"
+        },
+        {
+            "scope": "markup.underline.link",
+            "foreground": "var(mark)"
+        },
+        {
+            "scope": "markup.quote",
+            "foreground": "var(other_func)"
+        },
+        {
+            "scope": "markup.raw.inline",
+            "foreground": "var(other_func)"
+        },
+        {
+            "scope": "markup.raw.block",
+            "foreground": "var(other_func)"
+        },
+        {
+            "scope": "markup.other",
+            "foreground": "var(other_func)"
         },
         {
             "scope": "entity.name.tag.yaml",
