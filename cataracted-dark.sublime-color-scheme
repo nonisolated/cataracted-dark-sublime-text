@@ -1,23 +1,23 @@
 {
     "name": "Cataracted Dark Color Scheme",
-        "variables":
+    "variables":
     {
-        "plain_text": "#D2D7E3",
-        "background": "#27282C",
+        "plain_text": "#C9CCD4",
+        "background": "#26262C",
         "comment": "#52606B",
-        "mark": "#798A9B",
-        "string": "#CB8D94",
-        "number": "#B094DF",
-        "keyword": "#C399DF",
-        "preprocessor_statements": "#7C9494",
-        "type_declarations": "#9AB8AF",
-        "other_declarations": "#85ABAB",
-        "project_type": "#D1C48F",
-        "project_func": "#CFAF94",
-        "other_type": "#B8C494",
+        "mark": "#8D9BA5",
+        "string": "#C57E87",
+        "number": "#A88CD9",
+        "keyword": "#C6A2E1",
+        "preprocessor_statements": "#758787",
+        "type_declarations": "#92B0A8",
+        "other_declarations": "#7EA6A6",
+        "project_type": "#C9BE87",
+        "project_func": "#C7A98C",
+        "other_type": "#B1BE8C",
         "other_func": "#9EC09D",
         "invalid": "#853835",
-        "deprecated": "8F7C26"
+        "deprecated": "#8F7C26"
     },
     "globals":
     {
