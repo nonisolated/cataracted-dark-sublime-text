@@ -8,10 +8,10 @@
         "mark": "#8D9BA5",
         "string": "#C57E87",
         "number": "#A88CD9",
-        "keyword": "#C6A2E1",
+        "keyword": "#C395E5",
         "preprocessor_statements": "#758787",
-        "type_declarations": "#92B0A8",
-        "other_declarations": "#7EA6A6",
+        "type_declarations": "#9FBFB7",
+        "other_declarations": "#82ABAB",
         "project_type": "#C9BE87",
         "project_func": "#C7A98C",
         "other_type": "#B1BE8C",
@@ -25,8 +25,8 @@
         "foreground": "var(plain_text)",
         "caret": "var(plain_text)",
         "invisibles": "#60616A",
-        "line_highlight": "#2F3136",
-        "selection": "#41474D"
+        "line_highlight": "#2C2C33",
+        "selection": "#2E2E36"
     },
     "rules":
     [
