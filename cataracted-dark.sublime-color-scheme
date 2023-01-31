@@ -26,7 +26,7 @@
         "caret": "var(plain_text)",
         "invisibles": "#60616A",
         "line_highlight": "#2C2C33",
-        "selection": "#2E2E36"
+        "selection": "#3B3B45"
     },
     "rules":
     [
