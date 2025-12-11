@@ -6,22 +6,20 @@ Dark color scheme for Sublime Text
 * Search for `Install Package Control`
 
 ## Install color scheme
-
-### Package Control
 * Press <kbd>⇧</kbd> <kbd>⌘</kbd> <kbd>P</kbd>
 * Search for `Package Control: Install Package`
 * Search for `Cataracted Dark Color Scheme`
-
-### Manually
-```
-curl -o ~/Library/Application\ Support/Sublime\ Text/Packages/Cataracted\ Dark\ Color\ Scheme.sublime-color-scheme https://raw.githubusercontent.com/betraying/cataracted-dark-sublime-text/main/cataracted-dark.sublime-color-scheme
-```
 
 ## Select color scheme
 * `Preferences`
 * `Select Color Scheme...`
 * Search for `Cataracted Dark Color Scheme`
 
+## Select theme
+* `Preferences`
+* `Select theme...`
+* Select `Adaptive`
+    
 ## Font
 [Download SF Mono](https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg)
 
@@ -31,16 +29,6 @@ curl -o ~/Library/Application\ Support/Sublime\ Text/Packages/Cataracted\ Dark\ 
 "font_size": 12,
 "highlight_line": true
 ```
-
-## Theme
-```bash
-curl -o ~/Library/Application\ Support/Sublime\ Text/Packages/User/Default.sublime-theme --create-dirs https://raw.githubusercontent.com/betraying/cataracted-dark-sublime-text/main/cataracted-dark-theme.sublime-theme
-```
-* `Preferences`
-* `Select Theme...`
-* Search for `Default Dark`
-
-## [iTerm and Xcode](https://github.com/betraying/cataracted-dark)
 
 ## License
 Color scheme is released under the [MIT License](http://www.opensource.org/licenses/MIT)
